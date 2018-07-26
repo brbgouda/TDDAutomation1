@@ -1,0 +1,11 @@
+com\freeCRM\qa\pages\LoginPage.class
+com\freeCRM\qa\extentReportListener\ExtentReportListener.class
+com\freeCRM\qa\pages\HomePage.class
+com\freeCRM\qa\pages\SignUpPage.class
+excelMethods\ReadData.class
+com\freeCRM\qa\utilities\TestUtil.class
+excelMethods\GenericMethods.class
+com\freeCRM\qa\pages\DealsPage.class
+com\freeCRM\qa\utilities\WebEventListener.class
+com\freeCRM\qa\base\TestBase.class
+com\freeCRM\qa\pages\ContactsPage.class
