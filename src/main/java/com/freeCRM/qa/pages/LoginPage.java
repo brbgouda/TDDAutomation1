@@ -20,10 +20,12 @@ public class LoginPage extends TestBase {
 	@FindBy(xpath="//img[contains(@class, 'img-responsive')]")
 	WebElement freeCRM_Image;
 	
+	//Initializing page elements
 	public LoginPage(){
 		PageFactory.initElements(driver, this);
 	}
 	
+	//actions
 	public String loginPageTitle(){
 		return driver.getTitle();
 	}

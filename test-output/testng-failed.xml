@@ -5,8 +5,6 @@
     <classes>
       <class name="com.freeCRM.qa.TestCases.LoginPageTest">
         <methods>
-          <include name="loginPageImageTest"/>
-          <include name="loginPageTitleTest"/>
           <include name="tearDown"/>
           <include name="setUp"/>
           <include name="loginTest"/>
